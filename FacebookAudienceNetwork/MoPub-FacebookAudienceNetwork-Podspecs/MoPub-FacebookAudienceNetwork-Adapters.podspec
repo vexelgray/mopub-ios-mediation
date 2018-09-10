@@ -20,5 +20,5 @@ s.ios.deployment_target = '8.0'
 s.static_framework = true
 s.source_files = 'FacebookAudienceNetwork/*.{h,m}'
 s.dependency 'mopub-ios-sdk', '~> 5.0'
-s.dependency 'FBAudienceNetwork', '4.99.2'
+s.dependency 'FBAudienceNetwork', '5.0.0'
 end
